@@ -1,0 +1,11 @@
+@media only screen and (max-width:688px){
+    .shop{
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 30px;
+    }
+   
+}
+body{
+    margin: 0%;
+}
